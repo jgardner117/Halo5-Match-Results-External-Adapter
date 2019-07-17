@@ -16,12 +16,12 @@ This repo contains both a zip file for uploading to AWS Lambda, and the source c
 
 
 Create a new AWS Lambda function and upload the zip file. The Runtime should be Node.js 8.10 and the Handler should be index.handler, as pictured below:
-![Create new function](./images/upload.png)
+![Create new function](/images/upload.png)
 
 
 
 After creating a new function, add your API Key to Environment Variables as shown below:
-![Environment Variables](./images/env.png)
+![Environment Variables](/images/env.png)
 
 
 You should now be able to test the adapter within AWS Lambda by configuring a test event. The following is an example of what a properly formed incoming request should look like:
@@ -53,7 +53,7 @@ You should now be able to test the adapter within AWS Lambda by configuring a te
 
 
 Using the above data should return a single match
-![Test External Adapter](./images/testing.png)
+![Test External Adapter](/images/testing.png)
 
 
 ### Request parameters
