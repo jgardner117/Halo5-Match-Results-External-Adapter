@@ -144,7 +144,7 @@ Within the Teams array, the following will be provided for every team:
 
 ## Authors
 
-* **Jesse Gardner** - *Creator* - [Github](https://github.com/hateph34r)
+* **Jesse Gardner** - *Creator* - [Github](https://github.com/jgardner117)
 
 ## License
 
